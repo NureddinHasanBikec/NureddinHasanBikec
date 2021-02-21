@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
- <img src="./content_heart-react.gif" alt="react-native" width="7%" height="7%" align="center">
+ <img src="./content_heart-react.gif" alt="react-native" width="15%" height="15%" align="center">
 
 ## Medium Articles
 
