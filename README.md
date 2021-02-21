@@ -9,10 +9,11 @@
 - 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
+ <img src="./content_heart-react.gif" alt="react-native" width="7%" height="7%" align="center">
 
 ## Medium Articles
 
 - [React Native vs. Flutter !](https://nureddinhasanbikec.medium.com/react-native-vs-flutter-5335d05bbae4)
 - [Covid-19 and Application Industry](https://nureddinhasanbikec.medium.com/covid-19-and-application-industry-59da0038b9be)
 
-  <img src="./content_heart-react.gif" alt="react-native" width="30%" height="30%" align="right">
+ 
